@@ -1,0 +1,32 @@
+
+$warm-flame: #ff9a9e         !default;
+$night-fade:#a18cd1          !default;
+$sky-fallen:rgb(175,233,249) !default;
+$pink-sky:#f8c6d7            !default;
+$lemon-blue:#4ee3fa          !default;
+$lemon-lime:#e0f787          !default;
+$warning:#FDBD31              !default;
+$fire-ball:#FC4D4D           !default;
+//gray scale
+$light-white:#EEEEEE         !default;
+$light-whitegray:#CCCCCC     !default;
+$light-gray:#999999          !default;
+$gray:#666666                !default;
+$dark-gray:#333333           !default;
+$dark:#000000                !default;
+
+//backgraound-color
+$bg-musk-darkblue:#a7cce1    !default;
+$bg-musk-lightblue:#ecf6ed   !default;
+
+$defalut-color:(
+    "primary":$sky-fallen,
+    "secondary":$warm-flame,
+    "success":$lemon-lime,
+    "info":$pink-sky,
+    "light":$night-fade,
+    "dark":$dark-gray,
+    "waring":$warning,
+    "danger":$fire-ball,
+)
+   
