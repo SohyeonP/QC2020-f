@@ -1,15 +1,13 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AGYC,AAAA,cAAc,CAAG;EDXd,gBAAgB,EAAE,OAAoB;EACzC,YAAY,EAAE,OAAmB;CCYhC;;AAFD,AAAA,gBAAgB,CAAC;EDXd,gBAAgB,EAAE,OAAoB;EACzC,YAAY,EAAE,OAAmB;CCYhC;;AAFD,AAAA,cAAc,CAAG;EDXd,gBAAgB,EAAE,OAAoB;EACzC,YAAY,EAAE,OAAmB;CCYhC;;AAFD,AAAA,aAAa,CAAI;EDXd,gBAAgB,EAAE,OAAoB;EACzC,YAAY,EAAE,OAAmB;CCYhC;;AAFD,AAAA,cAAc,CAAG;EDXd,gBAAgB,EAAE,OAAoB;EACzC,YAAY,EAAE,OAAmB;CCYhC;;AAFD,AAAA,WAAW,CAAM;EDXd,gBAAgB,EAAE,OAAoB;EACzC,YAAY,EAAE,OAAmB;CCYhC;;AAFD,AAAA,YAAY,CAAK;EDXd,gBAAgB,EAAE,OAAoB;EACzC,YAAY,EAAE,OAAmB;CCYhC;;AAFD,AAAA,WAAW,CAAM;EDXd,gBAAgB,EAAE,OAAoB;EACzC,YAAY,EAAE,OAAmB;CCYhC;;AAGF,AAAA,aAAa,CAAC;EDhBV,gBAAgB,EAAE,OAAoB;EACzC,YAAY,EAAE,OAAmB;CCiBjC",
     "sources": [
         "../../scss/QC2020-f.scss",
         "../../scss/_color.scss",
         "../../scss/vendor/_alert-mixin.scss",
-        "../../scss/vendor/_alert-mixin.scss",
+        "../../scss/vendor/_alert.scss",
         "../../scss/_mixin.scss",
-        "../../scss/_mixin.scss",
-        "../../scss/_variable.scss",
-        "../../scss/main.scss"
+        "../../scss/_variable.scss"
     ],
     "names": [],
     "file": "QC2020-f.css"
